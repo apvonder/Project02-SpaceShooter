@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 1520187541083536290}
   - component: {fileID: 4112776746639525121}
   - component: {fileID: 5507929477584565674}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: eBullet
   m_TagString: bullet
   m_Icon: {fileID: 0}
@@ -127,10 +127,10 @@ BoxCollider2D:
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 4294967295
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 256
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
