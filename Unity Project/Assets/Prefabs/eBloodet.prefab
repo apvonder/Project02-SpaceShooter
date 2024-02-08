@@ -130,7 +130,7 @@ BoxCollider2D:
     m_Bits: 4294967295
   m_ExcludeLayers:
     serializedVersion: 2
-    m_Bits: 256
+    m_Bits: 384
   m_LayerOverridePriority: 0
   m_ForceSendLayers:
     serializedVersion: 2
@@ -192,4 +192,4 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: 7bac6ba499c80fb49bbb74e9e0bb8d7e, type: 2}
+    - {fileID: 11400000, guid: 55290b7766f4e3e4c9393e5fd671dc01, type: 2}
